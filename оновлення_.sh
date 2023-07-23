@@ -3,5 +3,4 @@ rm -rf UAsms
 git clone https://github.com/koss112ze/UAsms
 cd
 cd UAsms
-python3 поїхали.py
-.py
+python3 увімкнути_бомбер.py
